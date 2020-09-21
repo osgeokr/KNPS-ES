@@ -1,4 +1,4 @@
-Park-ES Models: Ecosystem Services Valuation Tool for QGIS
+KNPS-ES Models: Ecosystem Services Valuation Tool for QGIS
 ========================
    
 Park-ES는 국립공원 생태계서비스 가치평가를 위한 QGIS 탑재 모형입니다.
